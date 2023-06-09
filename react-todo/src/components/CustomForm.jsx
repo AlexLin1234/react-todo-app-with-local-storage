@@ -48,6 +48,4 @@ const CustomForm = ({ addTask }) => {
     </form>
   )
 }
-
-
 export default CustomForm
